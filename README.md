@@ -1,4 +1,4 @@
-# Movie-Recommendation-System
+
 Guide:
 
 1. Have to run the full Jupyter Notebook, since it generates the required .pkl files for the model to work.
